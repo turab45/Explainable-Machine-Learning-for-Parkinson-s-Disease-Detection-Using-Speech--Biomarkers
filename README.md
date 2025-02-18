@@ -59,18 +59,41 @@ The target variable, status, indicates the presence (1) or absence (0) of Parkin
 
  <div align="center">
 <img src="https://github.com/user-attachments/assets/e568d520-9cc2-432d-beec-6e73e32d66da" alt="Untitled" width="600" height="500" />
-<\div>
+</div>
 
 Correlation of features:
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/afe929ed-4808-4dce-8da5-d2562412bf8c" alt="Untitled" width="600" height="500" />
-<\div>
+</div>
+
+Feature Importance:
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/b34a9509-2634-46bd-ae46-4edfdfab3c5a" alt="Untitled" width="600" height="500" />
+</div>
+
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/428f8aee-301a-4180-9f04-f5de120f9b54" alt="Untitled" width="600" height="500" />
+</div>
+
+![Untitled](https://github.com/user-attachments/assets/697ae804-b280-4ab7-a262-73cc93c80425)
 
 
 # Model Building
 - Train multiple models (Logistic Regression, K-Nearest Neighbors, Decision Tree).
 - Evaluate performance with metrics such as accuracy, precision, recall, F1 score, and AUC.
+
+![Untitled](https://github.com/user-attachments/assets/a5cf7d5f-cca2-45ca-8d09-6725c56f10e3)
+
+
+# Explainability using SHAP values
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6bc9caad-3b1a-4c8c-9292-412647a34f70" alt="Untitled" width="600" height="500" />
+</div>
+
 
 # Future Work
 * **Integration of Multi-Modal Data:** Incorporate additional data sources (e.g., gait analysis, neuroimaging) to improve diagnostic accuracy.
