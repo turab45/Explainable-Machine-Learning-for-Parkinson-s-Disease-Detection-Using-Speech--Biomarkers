@@ -1,4 +1,4 @@
-# Explainable Machine Learning for Parkinson’s Disease Detection Using Vocal Biomarkers
+# Explainable Machine Learning for Parkinson’s Disease Detection Using Speech Biomarkers
 This repository contains a machine learning project that uses vocal biomarkers to detect Parkinson’s Disease. By analyzing subtle vocal impairments using explainable AI methods, the project aims to provide a non-invasive and accessible screening tool for early-stage Parkinson’s detection.
 
 # Overview
