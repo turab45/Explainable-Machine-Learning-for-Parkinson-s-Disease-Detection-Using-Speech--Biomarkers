@@ -33,8 +33,6 @@ The dataset consists of voice recordings from both Parkinson’s patients and he
 
 The target variable, status, indicates the presence (1) or absence (0) of Parkinson’s Disease.
 
-# Methodology
-                         |
 | **Explainability**      | - Use SHAP to generate global and local explanations, showing which features most strongly influence the predictions.<br>- Visualize SHAP summary and dependence plots to interpret model behavior.                                                                              |
 
 
